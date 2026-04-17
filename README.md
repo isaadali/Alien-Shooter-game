@@ -12,20 +12,16 @@ Alien Shooter is a simple yet engaging shooting game developed in C++. The playe
 * Score tracking
 * Game over condition
 
-
-
  Technologies Used
 
 * C++
 
-
  How to Run
 
 1. Clone the repository
-2. Open the project in your IDE (e.g., VS Code)
+2. Open the project in your IDE (e.g. VS Code)
 3. Compile the code using a C++ compiler
 4. Run the executable file
-
 
 
  Game Objective
